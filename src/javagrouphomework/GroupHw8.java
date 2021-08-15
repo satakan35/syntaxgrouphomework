@@ -2,6 +2,7 @@ package javagrouphomework;
 
 public class GroupHw8 {
 
+	//Elbis's codes
 	static int getMin(int arr[], int n)
 	{
 		int num = arr[0];
